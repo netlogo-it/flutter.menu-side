@@ -1,4 +1,6 @@
-# side_menu
+# side_menu 
+
+`example/layout/side_menu`
 
 Semplice esempio di menu applicativo contestuale posto nella parte sinistra dello schermo.
 
